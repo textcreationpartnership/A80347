@@ -1,0 +1,264 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A congratulatory poem, to His Illustrious Highness Prince Rupert Lord High Admiral; and others the thrice noble commanders of His Majesties naval forces. On their couragious gallantry in the late engagement against the Dutch, and taking their East-India-ships.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1673</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A80347</idno>
+            <idno type="STC">Wing C5835</idno>
+            <idno type="STC">ESTC R213767</idno>
+            <idno type="EEBO-CITATION">99899526</idno>
+            <idno type="PROQUEST">99899526</idno>
+            <idno type="VID">153877</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A80347)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153877)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2386:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A congratulatory poem, to His Illustrious Highness Prince Rupert Lord High Admiral; and others the thrice noble commanders of His Majesties naval forces. On their couragious gallantry in the late engagement against the Dutch, and taking their East-India-ships.</title>
+               </titleStmt>
+               <extent>[4] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed by Edward Crowch,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1673.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Newberry Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682 --  Early works to 1800.</term>
+               <term>Dutch War, 1672-1678 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2009-07</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="poem">
+            <pb facs="tcp:153877:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <pb facs="tcp:153877:1" rendition="simple:additions"/>
+            <!-- PDF PAGE 31 -->
+            <head>A CONGRATULATOYR POEM, ON Prince Rupert.</head>
+            <lg>
+               <l>MOunted on <hi>Fancies</hi> tow'ring Plums I flye,</l>
+               <l>Up to the <hi>Middle Region</hi> of the Skie;</l>
+               <l>Where hovering long, the Cauſe I fought to know,</l>
+               <l>Of ſundry <hi>Meteors,</hi> fluttering then below.</l>
+               <l>I ſaw <hi>Vapours</hi> aſcend like gentle Dews,</l>
+               <l>And down again in poudrous <hi>Clouds</hi> diffuſe;</l>
+               <l>
+                  <hi>
+                     <gap reason="illegible: bleedthrough" extent="1 span">
+                        <desc>〈…〉</desc>
+                     </gap>
+                  </hi> too, that did with mortals play,</l>
+               <l>And laugh to ſee ſum led by <hi>Light</hi> aſtray;</l>
+               <l>When ſuddenly a <hi>Thunder</hi> piere'd my Ear,</l>
+               <l>That made me Natures <hi>Gaſping Hour</hi> to fear,</l>
+               <l>With riſing <hi>Mountains</hi> of black Sulphrous Smoak</l>
+               <l>That dim'd the <hi>Stars,</hi> and <hi>Sol</hi> himſelf might choak.</l>
+               <l>Straight round about I caſt my troubled Eye,</l>
+               <l>And though neer <hi>Heaven,</hi> from thence thought fit to fly,</l>
+               <l>So diſmal ſtill the <hi>Terror</hi> did appear,</l>
+               <l>I knew not where 'twas <hi>ſafe,</hi> nor what to <hi>fear;</hi>
+               </l>
+               <l>Sometimes I thought the <hi>Gyants</hi> that of old,</l>
+               <l>Attack'd the <hi>
+                     <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>as,</hi> breaking their <hi>Priſon hold,</hi>
+               </l>
+               <l>Were flinging <hi>Mountains</hi> at the Head of <hi>Jove;</hi>
+               </l>
+               <l>Whil'ſt he as faſt threw <hi>Thunder-bolts</hi> above.</l>
+               <l>Nor was I much deceiv'd, the <hi>Fable</hi> bate,</l>
+               <l>And truly we this <hi>Prodigy</hi> ſhall ſtate,</l>
+               <l>Th'ungrateful <hi>Dutch.</hi> by <hi>England's</hi> milder Prince,</l>
+               <l>Preſerved from the Jaws of <hi>Ruine</hi> long ſince;</l>
+               <l>And from the <hi>Poore Deſtreſſea</hi> Slaves of Fate,</l>
+               <l>Still <hi>Pa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>per'd</hi> up to <hi>High and Mighty</hi> State,</l>
+               <l>Their generous <hi>Patrons</hi> kindneſſes requite,</l>
+               <l>With inſolent uſurping of his Right.</l>
+               <l>
+                  <hi>Right of the Narrow Seas,</hi> A precious Gem,</l>
+               <l>Fixt ever in the <hi>Britiſh Diadem,</hi>
+               </l>
+               <l>To quell thoſe <hi>Sons of Mud,</hi> our <hi>Jove</hi> had ſent</l>
+               <l>
+                  <hi>R<g ref="char:V">Ʋ</g>PERT,</hi> in whom Nature all <hi>Wonders</hi> meant,</l>
+               <l>And that at's <hi>Birth</hi> ſhe might her ſelf out doe,</l>
+               <l>Has drawn in <hi>one</hi> vaſt Soul the Pow'rs of two.</l>
+               <l>On this Debate, the <hi>Squaarons</hi> of each Fleet</l>
+               <l>Prancing on <hi>Neptunes</hi> curled Billows meet,</l>
+               <pb facs="tcp:153877:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:153877:2" rendition="simple:additions"/>
+               <!-- PDF PAGE 32 -->
+               <gap reason="duplicate" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <l>
+                  <pb facs="tcp:153877:3" rendition="simple:additions"/>
+                  <!-- PDF PAGE 33 -->
+                  <hi>Engliſh</hi> and <hi>Dutch</hi> their mutual Fates to dare,</l>
+               <l>Thoſe led by <hi>Honour,</hi> theſe backt with <hi>Diſpair.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>No Ceremonies now—Firſt Complement,</l>
+               <l>From <hi>Brazen Mouths</hi> with <hi>murtkering Breath</hi> is ſent,</l>
+               <l>The <hi>Day</hi> they baniſh, but t' uphold the Fight,</l>
+               <l>Their quick <hi>Broad ſides</hi> do furniſh them with <hi>Light.</hi>
+               </l>
+               <l>Here drop a <hi>Maſt,</hi> and there the Tatter'd <hi>Sails,</hi>
+               </l>
+               <l>Become the ſports of the <hi>Infranchiz'd</hi> Gales;</l>
+               <l>In <hi>breaks</hi> a Shot, and then they muſt take pain,</l>
+               <l>To Pump whole <hi>Seas</hi> into the <hi>Sea</hi> again.</l>
+               <l>
+                  <hi>Arms, Bowells, Legs.</hi> and gaftly <hi>Heads</hi> are ſpread</l>
+               <l>Throughout the <hi>Decks,</hi> all cover'd with the dead,</l>
+               <l>Till hurried <hi>Over-board</hi> at laſt they have</l>
+               <l>Some Ravenous <hi>Fiſh<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>s</hi> Belly for a Grave;</l>
+               <l>Whil'ſt ſtill great <hi>Guns</hi> for others loudly Roar,</l>
+               <l>And turn the <hi>Frothy Ocean</hi> into <hi>Gore;</hi>
+               </l>
+               <l>Whoſe <hi>Liquoriſh taſt</hi> a ſtragling <hi>whale</hi> had drew,</l>
+               <l>So near, that he the <hi>Smoaking Ships</hi> could view,</l>
+               <l>Heard their fierce <hi>Bellowings,</hi> beheld the Fire,</l>
+               <l>Which from their <hi>Throats</hi> in flaſhes did aſpire,</l>
+               <l>When <hi>Jealous grown,</hi> and frighted much to ſee</l>
+               <l>
+                  <hi>Leviatkan's</hi> more dreadful far than <hi>he;</hi>
+               </l>
+               <l>He <hi>Ducks</hi> under a Wave, ſpeeds to his <hi>Shoale,</hi>
+               </l>
+               <l>And <hi>warns</hi> them all to keep neer the <hi>North-pole.</hi>
+               </l>
+            </lg>
+            <lg>
+               <l>Mean time the <hi>PRINCE,</hi> that durſt all dangers meet,</l>
+               <l>By his Examples, baniſht <hi>Fear</hi> the Fleet;</l>
+               <l>At his bright <hi>Beams</hi> they all their <hi>Tapers</hi> Light,</l>
+               <l>And by His <hi>D<gap reason="illegible: bleedthrough" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>al</hi> ſet their <hi>Motions</hi> right,</l>
+               <l>Admiring ſtill the <hi>Grandour</hi> of his mind,</l>
+               <l>Where matchleſs <hi>Valour</hi> with like <hi>Conduct's</hi> joyn'd.</l>
+               <l>The Gallant <hi>SPRAGE</hi> in a reſiſtleſs Rage,</l>
+               <l>The Fierceſt <hi>Foes</hi> does for long time Engage,</l>
+               <l>And ſtood their Shots, when thickeſt they did fly,</l>
+               <l>Till <hi>Fate,</hi> conſpiring with the <hi>Enemy,</hi>
+               </l>
+               <l>Decrees his Doom amongſt the <hi>trecherons</hi> Waves,</l>
+               <l>Whom he ſo oft had <hi>trampled</hi> ore as Slaves.</l>
+            </lg>
+            <lg>
+               <l>But in what <hi>lofty-ſtraines</hi> ſhall we admire,</l>
+               <l>That <hi>Worthy</hi> Son of a moſt <hi>Noble</hi> Syre,</l>
+               <l>Heroick <hi>OSSERY!</hi> Our Pen's too weak;</l>
+               <l>Pluck out thy golden Trumpet <hi>Fame</hi> and ſpeak,</l>
+               <l>Speak his bright <hi>Name</hi> as far as <hi>Light</hi> can fly,</l>
+               <l>And make it laſting as Eternity.</l>
+            </lg>
+            <lg>
+               <l>Nor ſhall the Waves of black <hi>Oblivion</hi> Drown</l>
+               <l>Brave <hi>Monday's</hi> worth, but time his merits crown.</l>
+               <l>The <hi>Prizes</hi> took, that from the <hi>Indies</hi> came,</l>
+               <l>Shall yield us <hi>Spices</hi> to Embalm his Name.</l>
+            </lg>
+            <lg>
+               <l>The conquering <hi>Genious</hi> of our <hi>Brittiſh</hi> Iſles,</l>
+               <l>Comes <hi>generous-Souls!</hi> to welcome you with ſmiles.</l>
+               <l>Your <hi>own Deeds</hi> are your beſt <hi>Heralds,</hi> to tell</l>
+               <l>Th'admiring World, how much you do Excell;</l>
+            </lg>
+            <lg>
+               <l>Whilſt we <hi>Liſp</hi> out your praiſe, or dully wonder.</l>
+               <l>Your <hi>Cannons</hi> ſpeak it better far in Thunder.</l>
+            </lg>
+            <trailer>PINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
